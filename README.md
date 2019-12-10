@@ -4,3 +4,6 @@ i am not answerable to anyone if something went wrong.
 prequists:
 1.) python installed
 2.) scapy
+3.)pyshark
+4.)os
+5.)sys
